@@ -1,0 +1,4 @@
+com\chatbot\ChatbotApplicationTests.class
+com\chatbot\controller\ChatControllerTest.class
+com\chatbot\nlp\EntityExtractorTest.class
+com\chatbot\nlp\IntentClassifierTest.class
